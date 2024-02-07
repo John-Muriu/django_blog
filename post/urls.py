@@ -1,4 +1,5 @@
 from django.urls import path
+from .models import Article
 from .views import all_post, post_details  # Import the views
 
 urlpatterns = [
