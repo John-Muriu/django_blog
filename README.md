@@ -14,3 +14,4 @@ Create a Virtual enviorment and install all requirements
 pip install -r requirements.txt
 
 ```
+# django_blog
